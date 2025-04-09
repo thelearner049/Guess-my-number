@@ -1,2 +1,3 @@
 # Guess-my-number
-Random Number Guessing game 
+
+Random Number Guessing game.
